@@ -1,0 +1,10 @@
+c:\users\priya\documents\visual studio 2010\Projects\ConfigureAuthenticationDemo1\ConfigureAuthenticationDemo1\bin\ConfigureAuthenticationDemo1.dll
+c:\users\priya\documents\visual studio 2010\Projects\ConfigureAuthenticationDemo1\ConfigureAuthenticationDemo1\bin\ConfigureAuthenticationDemo1.pdb
+c:\users\priya\documents\visual studio 2010\Projects\ConfigureAuthenticationDemo1\ConfigureAuthenticationDemo1\obj\Debug\ResolveAssemblyReference.cache
+c:\users\priya\documents\visual studio 2010\Projects\ConfigureAuthenticationDemo1\ConfigureAuthenticationDemo1\obj\Debug\ConfigureAuthenticationDemo1.dll
+c:\users\priya\documents\visual studio 2010\Projects\ConfigureAuthenticationDemo1\ConfigureAuthenticationDemo1\obj\Debug\ConfigureAuthenticationDemo1.pdb
+C:\Users\Priya\Desktop\ConfigureAuthenticationDemo1\ConfigureAuthenticationDemo1\bin\ConfigureAuthenticationDemo1.dll
+C:\Users\Priya\Desktop\ConfigureAuthenticationDemo1\ConfigureAuthenticationDemo1\bin\ConfigureAuthenticationDemo1.pdb
+C:\Users\Priya\Desktop\ConfigureAuthenticationDemo1\ConfigureAuthenticationDemo1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Priya\Desktop\ConfigureAuthenticationDemo1\ConfigureAuthenticationDemo1\obj\Debug\ConfigureAuthenticationDemo1.dll
+C:\Users\Priya\Desktop\ConfigureAuthenticationDemo1\ConfigureAuthenticationDemo1\obj\Debug\ConfigureAuthenticationDemo1.pdb
